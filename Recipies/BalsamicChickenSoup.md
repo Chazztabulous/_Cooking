@@ -6,7 +6,7 @@
 - 3 tbsp thyme
 - 1 tsp salt
 - 5 cups chicken broth
-- 4 tbsp balsamic vinega
+- 4 tbsp balsamic vinegar
 - 2 tbsp cornstarch
 - 2 tbsp butter (ghee works too)
 - 2 gariclic cloves, minced
