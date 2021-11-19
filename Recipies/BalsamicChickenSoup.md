@@ -2,7 +2,7 @@
 - 1lb parsnips
 - 1lb potatoes
 - 1lb rainbow carrots
-- 3lb chicken breast
+- 2.5 - 3 lb chicken breast (depending on how much meat youd like)
 - 3 tsp thyme
 - 1 tsp salt
 - 5 cups chicken broth
