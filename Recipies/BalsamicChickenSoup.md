@@ -3,7 +3,7 @@
 - 1lb potatoes
 - 1lb rainbow carrots
 - 3lb chicken breast
-- 3 tbsp thyme
+- 3 tsp thyme
 - 1 tsp salt
 - 5 cups chicken broth
 - 4 tbsp balsamic vinegar
