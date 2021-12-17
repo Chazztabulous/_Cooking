@@ -9,7 +9,7 @@
 - 4 tbsp balsamic vinegar
 - 2 tbsp cornstarch
 - 2 tbsp butter (ghee works too)
-- 2 gariclic cloves, minced
+- 2 garlic cloves, minced
 - 2 tbsp olive oil
 
 # Method
