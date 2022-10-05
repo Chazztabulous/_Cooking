@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Avacado MacNcheese"
-permalink: /docs/Recipies
+# permalink: /docs/Recipies
 ---
 
 # Ingredients
