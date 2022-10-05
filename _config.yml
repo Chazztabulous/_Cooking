@@ -1,0 +1,20 @@
+############################
+# --- Required options --- #
+############################
+
+# Name of website
+title: Recipies
+
+# Your name to show in the footer
+author: Nick Stricklett
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  About Me: "DevOps Engineer trying to publish my faviorte recipies"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "none at this time"
