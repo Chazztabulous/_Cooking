@@ -1,3 +1,7 @@
+layout: page
+title: "Avacado MacNcheese"
+permalink: /docs/Recipies
+
 # Ingredients
 - 3 ounces pasta
 - 1/2 avocados--halved, pitted and peeled
