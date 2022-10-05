@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Avacado MacNcheese"
 permalink: /docs/Recipies
+---
 
 # Ingredients
 - 3 ounces pasta
