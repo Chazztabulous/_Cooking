@@ -15,7 +15,7 @@
 - 1/2 lb Green beans, washed and trimmed
 - 2 lbs Boneless skinless chicken breasts
 
-## Method
+## Instructions
 
 - Preheat oven to 375°F.
 - In a small bowl, make the honey-mustard sauce. Combine the Dijon mustard, honey, 1/2 teaspoon salt, apple cider vinegar and paprika. Stir until smooth.

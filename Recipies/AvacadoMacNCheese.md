@@ -1,4 +1,6 @@
-# Ingredients
+# Avacado pasta with egg
+
+## Ingredients
 - 3 ounces pasta
 - 1/2 avocados--halved, pitted and peeled
 - 1 garlic clove, smashed
@@ -9,7 +11,7 @@
 - handful chopped parsley
 - 1 fried egg
 
-# Method
+## Instructions
 
 1. Bring a large pot of salted water to a boil. Add the pasta and cook until al dente, 6 to 8 minutes.
 
