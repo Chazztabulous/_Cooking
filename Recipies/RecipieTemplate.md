@@ -1,3 +1,5 @@
-# Ingredients
+# Title
 
-# Method
+## Ingredients
+
+## Instructions

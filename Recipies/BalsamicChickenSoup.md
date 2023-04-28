@@ -1,4 +1,6 @@
-# Ingredients
+# Balsamic chicken soup
+
+## Ingredients
 - 1lb parsnips
 - 1lb potatoes
 - 1lb rainbow carrots
@@ -12,7 +14,7 @@
 - 2 garlic cloves, minced
 - 2 tbsp olive oil
 
-# Method
+## Instructions
 1. Set instapot to saute, and add olive oil when pot is up to temp. once oil is hot, place chicken in pot along with thyme, salt, and garlic. saute for 4 minutes, turning chicken once to brown both sides. Transfer chicken to plate
 1. Press cancel, then add broth and vinegar. Using wooden spoon, scrape up any browned bits stuck to the bottom of the pot. Add vegetables to pot, then stir to combine. Place the chicken and garlic on top of the veggies, but dont stir
 1. Lock the lid into place and slect Pressure Cook or Manual; set the pressure to High and the time to 10 minutes. Make sure the steam release knob is in the sealed position. After cooking, naturally release the pressure for 10 minutes, then quick release remaining pressure.

@@ -1,7 +1,7 @@
-## CURRIED CHICKEN SOUP
+# Curried Chicken Soup
 This Curried Chicken Soup recipe is easy to make, nice and creamy, perfectly (and fairly lightly) spiced, naturally gluten-free, and mmm mmm good.
 
-# Ingredients
+## Ingredients
 - 1 tablespoon olive oil
 - 1 medium white onion, peeled and diced
 - 2 large carrots, diced (about 1 cup)
@@ -17,16 +17,16 @@ This Curried Chicken Soup recipe is easy to make, nice and creamy, perfectly (an
 - 3/4 teaspoon kosher salt
 - 1/2 teaspoon freshly-ground black pepper
 - 1 (14-ounce) can coconut milk (**see note below)
-optional garnishes: chopped fresh cilantro, crushed red pepper flakes, shredded coconut
+- optional garnishes: chopped fresh cilantro, crushed red pepper flakes, shredded coconut
 
-# Directions:
-1. Heat the olive oil in a large stockpot over medium-high heat.  
-1. Add the onion, carrots, celery and parsnips and cook for 7-9 minutes, until the onion is soft and translucent, stirring occasionally.  
-1. Add the garlic, and cook for an additional 1-2 minutes, until the garlic is fragrant, stirring occasionally.  
-1. Add the chicken stock, chicken, curry powder, bay leaf, cumin, red pepper flakes, salt and pepper, and stir to combine.  
-1. Stir in the coconut milk until combined.  Continue to cook until the soup reaches a simmer.  Then reduce heat to medium-low, cover partially with a lid, and let the mixture simmer for 20-25 minutes.
+## Instructions:
+- Heat the olive oil in a large stockpot over medium-high heat.  
+- Add the onion, carrots, celery and parsnips and cook for 7-9 minutes, until the onion is soft and translucent, stirring occasionally.  
+- Add the garlic, and cook for an additional 1-2 minutes, until the garlic is fragrant, stirring occasionally.  
+- Add the chicken stock, chicken, curry powder, bay leaf, cumin, red pepper flakes, salt and pepper, and stir to combine.  
+- Stir in the coconut milk until combined.  Continue to cook until the soup reaches a simmer.  Then reduce heat to medium-low, cover partially with a lid, and let the mixture simmer for 20-25 minutes.
 
-1. Remove the bay leaf.  Then taste the soup, and season with extra salt, pepper, or red pepper flakes if needed.
+- Remove the bay leaf.  Then taste the soup, and season with extra salt, pepper, or red pepper flakes if needed.
 
 Serve warm, topped with optional garnishes if desired.
 
